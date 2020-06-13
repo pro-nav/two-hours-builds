@@ -1,8 +1,8 @@
 {
     "name": "com.newapp.colorpicker",
     "displayName": "ColorPicker",
-    "version": "1.0.0",
-    "description": "Color Picker By pronav on new Laptop made for fun",
+    "version": "1.1.0",
+    "description": "Color Picker by pro-nav",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,6 @@
     "keywords": [
         "ecosystem:cordova"
     ],
-    "author": "Apache Cordova Team",
+    "author": "pro-nav",
     "license": "Apache-2.0"
 }
