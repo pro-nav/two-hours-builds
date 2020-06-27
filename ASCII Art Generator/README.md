@@ -4,5 +4,6 @@ Run init.py
 
 Enter file name
 
-Output.txt is genarated
+Chose Image Mode
 
+output.txt is genarated output file
